@@ -6,7 +6,7 @@ Automated image storage for blog publishing system.
 
 ```
 images/
-├── 2025/
+├── 2026/
 │   ├── 01/          # January images
 │   ├── 02/          # February images
 │   └── ...
@@ -28,4 +28,4 @@ This repository is managed by the blog publishing automation system:
 - [OK] Organized by date
 - [OK] Direct embedding in blog posts
 
-Created: 2025-12-08 19:33:35
+Created: 2026-01-08 20:04:21
