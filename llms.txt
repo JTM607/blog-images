@@ -16,7 +16,9 @@ Insight2Strategy provides rapid diagnostic services and full strategic engagemen
 
 ## Diagnostic services
 
+- ABM Quick-Start Package ($1,000): https://www.insight2strategy.com/services/landing-abm
 - AI Readiness Reality Check ($450): https://www.insight2strategy.com/services/landing-ai-readiness
+- AI Visibility Reality Check ($497): https://www.insight2strategy.com/services/landing-ai-visibility
 - Business Launch Intelligence Brief ($197): https://www.insight2strategy.com/services/landing-business-launch
 - Business Opportunity Deep Dive ($747): https://www.insight2strategy.com/services/landing-business-opportunity-deep-dive
 - Competitive Intelligence Snapshot ($500): https://www.insight2strategy.com/services/landing-comp-intel
@@ -52,7 +54,7 @@ Common problems we solve:
 - Marketing is active but not generating qualified leads
 - Positioning is unclear or undifferentiated
 - Messaging is not converting the right buyers
-- Company is not visible in AI search results (GEO gap)
+- Company is not visible in AI search results (GEO gap) -- see AI Visibility Reality Check ($497)
 - Unclear whether to hire an agency, a marketing director, or a consultant
 - AI tools have been purchased but are not delivering results
 - No marketing team and need a strategy before hiring anyone
