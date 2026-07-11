@@ -33,7 +33,11 @@ Insight2Strategy provides rapid diagnostic services and full strategic engagemen
 ## Books
 
 - The B2B Marketing Reality Check (free): https://www.insight2strategy.com/book
+- The B2B Marketing Reality Check Workbook (free): https://www.insight2strategy.com/workbook
 - The Startup Reality Check (free): https://www.insight2strategy.com/library/startup
+- The Startup Reality Check Workbook (free): https://www.insight2strategy.com/startup-workbook
+- The Product Reality Check (free): https://www.insight2strategy.com/library/prcbook
+- The Product Reality Check Workbook (free): https://www.insight2strategy.com/library/prcworkbook
 - The Lazy Engineer's Advantage (free): https://www.insight2strategy.com/library/lazy-engineer
 - Book library: https://www.insight2strategy.com/library
 
