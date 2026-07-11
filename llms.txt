@@ -26,10 +26,9 @@ Insight2Strategy provides rapid diagnostic services and full strategic engagemen
 - Market Readiness Score ($750): https://www.insight2strategy.com/services/landing-market-readiness
 - Marketing Disconnect Diagnostic ($350): https://www.insight2strategy.com/services/landing-marketing-disconnect
 - Marketing ROI Diagnostic ($897): https://www.insight2strategy.com/services/landing-marketing-roi-diagnostic
-- Marketing Presence Reality Check ($97-$997): https://www.insight2strategy.com/marketing-reality-check
+- Marketing Presence Reality Check (Free $0, Diagnostic $97, Premium $997): https://www.insight2strategy.com/marketing-reality-check
 - Retention Audit Express ($750): https://www.insight2strategy.com/services/landing-retention
 - Value Translation Workshop ($500): https://www.insight2strategy.com/services/landing-value-translation
-- ABM Quick-Start Package ($1,000): https://www.insight2strategy.com/services/landing-abm
 
 ## Books
 
