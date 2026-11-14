@@ -1,65 +1,72 @@
 # Insight2Strategy
-> B2B marketing strategy consultancy serving companies with 15 to 500 employees at marketing inflection points -- the moment when what got you here is no longer enough to get you to the next level.
+> Practical marketing, sales and AI help for small businesses and technology companies. Free step-by-step guides for common growth problems, short diagnostic reports when you want an outside answer, and plans built around your business that your own team can run.
 
-Insight2Strategy provides rapid diagnostic services and full strategic engagements covering positioning, go-to-market strategy, marketing diagnostics, AI readiness, competitive intelligence, and ideal customer profile validation. Founded 2025 by Joe Morrison. Sector-agnostic B2B, not technology-specific.
+Insight2Strategy (I2S) was founded in 2025 by Joe Morrison. Work is organized around the problems owners describe: the right people don't know you exist, people don't see why they should choose you, interest isn't turning into sales, marketing spend you can't measure, AI that isn't paying off, and getting a new business or offer started. Diagnostic reports take 3 business days and cost $197 to $1,000; plans built around your business start at $3,500.
+
+## Problems to solve (start here)
+
+- The right people don't know we exist: https://www.insight2strategy.com/problems-to-solve/the-right-people-dont-know-we-exist
+- People don't see why they should choose us: https://www.insight2strategy.com/problems-to-solve/people-dont-see-why-they-should-choose-us
+- Interest isn't turning into sales: https://www.insight2strategy.com/problems-to-solve/interest-isnt-turning-into-sales
+- We spend on marketing and can't tell what it's doing: https://www.insight2strategy.com/problems-to-solve/we-spend-on-marketing-and-cant-tell-what-its-doing
+- We know we should use AI, but it isn't paying off: https://www.insight2strategy.com/problems-to-solve/we-know-we-should-use-ai-but-it-isnt-paying-off
+- We're just getting started: https://www.insight2strategy.com/problems-to-solve/were-just-getting-started
+
+## Free step-by-step guides
+
+- Are buyers finding you in AI answers?: https://www.insight2strategy.com/problems-to-solve/the-right-people-dont-know-we-exist/ai-answers
+- Do you sound like everyone else?: https://www.insight2strategy.com/problems-to-solve/people-dont-see-why-they-should-choose-us/sound-like-everyone-else
+- Why do interested prospects go quiet?: https://www.insight2strategy.com/problems-to-solve/interest-isnt-turning-into-sales/prospects-go-quiet
+- Can you tell which marketing is working?: https://www.insight2strategy.com/problems-to-solve/we-spend-on-marketing-and-cant-tell-what-its-doing/which-marketing-works
+- Why haven't AI tools made you faster?: https://www.insight2strategy.com/problems-to-solve/we-know-we-should-use-ai-but-it-isnt-paying-off/ai-tools-not-faster
+- Is this idea worth pursuing?: https://www.insight2strategy.com/problems-to-solve/were-just-getting-started/idea-worth-pursuing
+- All guides, books and free downloads: https://www.insight2strategy.com/resources
 
 ## Key pages
 
 - Homepage: https://www.insight2strategy.com/
-- Services (all diagnostics): https://www.insight2strategy.com/services
-- Marketing Reality Check (free entry point): https://www.insight2strategy.com/marketing-reality-check
-- Packages (full engagements): https://www.insight2strategy.com/packages
+- Marketing Reality Check (free version available): https://www.insight2strategy.com/marketing-reality-check
+- Services (diagnostic reports): https://www.insight2strategy.com/services
+- Packages (plans built around your business): https://www.insight2strategy.com/packages
 - Approach: https://www.insight2strategy.com/approach
 - FAQ: https://www.insight2strategy.com/faq
-- Free Consultation: https://www.insight2strategy.com/free-consultation
-- Blog: https://insight2strategythoughts.blogspot.com/
+- Free consultation: https://www.insight2strategy.com/free-consultation
+- Blog (weekly, Mondays): https://insight2strategythoughts.blogspot.com/
 
-## Diagnostic services
+## Diagnostic reports (3 business days)
 
-- ABM Quick-Start Package ($1,000): https://www.insight2strategy.com/services/landing-abm
+- Marketing Presence Reality Check (free; paid reports $97 to $997): https://www.insight2strategy.com/marketing-reality-check
+- Business Launch Intelligence Brief ($197): https://www.insight2strategy.com/services/landing-business-launch
+- Marketing Disconnect Diagnostic ($350): https://www.insight2strategy.com/services/landing-marketing-disconnect
 - AI Readiness Reality Check ($450): https://www.insight2strategy.com/services/landing-ai-readiness
 - AI Visibility Reality Check ($497): https://www.insight2strategy.com/services/landing-ai-visibility
-- Business Launch Intelligence Brief ($197): https://www.insight2strategy.com/services/landing-business-launch
-- Business Opportunity Deep Dive ($747): https://www.insight2strategy.com/services/landing-business-opportunity-deep-dive
+- Value Translation Workshop ($500): https://www.insight2strategy.com/services/landing-value-translation
 - Competitive Intelligence Snapshot ($500): https://www.insight2strategy.com/services/landing-comp-intel
 - ICP Validation Sprint ($650): https://www.insight2strategy.com/services/landing-icp
+- Business Opportunity Deep Dive ($747): https://www.insight2strategy.com/services/landing-business-opportunity-deep-dive
 - Market Readiness Score ($750): https://www.insight2strategy.com/services/landing-market-readiness
-- Marketing Disconnect Diagnostic ($350): https://www.insight2strategy.com/services/landing-marketing-disconnect
-- Marketing ROI Diagnostic ($897): https://www.insight2strategy.com/services/landing-marketing-roi-diagnostic
-- Marketing Presence Reality Check (Free $0, Diagnostic $97, Premium $997): https://www.insight2strategy.com/marketing-reality-check
 - Retention Audit Express ($750): https://www.insight2strategy.com/services/landing-retention
-- Value Translation Workshop ($500): https://www.insight2strategy.com/services/landing-value-translation
+- Marketing ROI Diagnostic ($897): https://www.insight2strategy.com/services/landing-marketing-roi-diagnostic
+- ABM Quick-Start Package ($1,000): https://www.insight2strategy.com/services/landing-abm
 
-## Books
+## Books (free PDFs; paperback and Kindle on Amazon)
 
-- The B2B Marketing Reality Check (free): https://www.insight2strategy.com/book
-- The B2B Marketing Reality Check Workbook (free): https://www.insight2strategy.com/workbook
-- The Startup Reality Check (free): https://www.insight2strategy.com/library/startup
-- The Startup Reality Check Workbook (free): https://www.insight2strategy.com/startup-workbook
-- The Product Reality Check (free): https://www.insight2strategy.com/library/prcbook
-- The Product Reality Check Workbook (free): https://www.insight2strategy.com/library/prcworkbook
-- The Lazy Engineer's Advantage (free): https://www.insight2strategy.com/library/lazy-engineer
+- The B2B Marketing Reality Check: https://www.insight2strategy.com/book
+- The B2B Marketing Reality Check Workbook: https://www.insight2strategy.com/workbook
+- The Startup Reality Check: https://www.insight2strategy.com/library/startup
+- The Startup Reality Check Workbook: https://www.insight2strategy.com/startup-workbook
+- The Product Reality Check: https://www.insight2strategy.com/library/prcbook
+- The Product Reality Check Workbook: https://www.insight2strategy.com/library/prcworkbook
+- The Lazy Engineer's Advantage: https://www.insight2strategy.com/library/lazy-engineer
 - Book library: https://www.insight2strategy.com/library
 
 ## About
 
-- Founder: Joe Morrison
+- Founder: Joe Morrison, SCORE Central NY mentor
 - LinkedIn (personal): https://www.linkedin.com/in/1joemorrison/
 - LinkedIn (company): https://www.linkedin.com/company/insight2strategy/
 - Contact: Info@Insight2Strategy.com
-- SCORE mentor: Central NY chapter, technology strategy and marketing
 
-## What we do
+## How we work
 
-Insight2Strategy helps B2B companies with 15 to 500 employees diagnose and resolve marketing problems at inflection points. Services range from rapid 1-3 day diagnostic reports ($197-$1,000) to full strategic engagements (3-12 weeks, $3,500+).
-
-Common problems we solve:
-- Marketing is active but not generating qualified leads
-- Positioning is unclear or undifferentiated
-- Messaging is not converting the right buyers
-- Company is not visible in AI search results (GEO gap) -- see AI Visibility Reality Check ($497)
-- Unclear whether to hire an agency, a marketing director, or a consultant
-- AI tools have been purchased but are not delivering results
-- No marketing team and need a strategy before hiring anyone
-
-We work with professional services firms, manufacturing companies, SaaS businesses, consulting practices, distribution companies, and B2B service businesses across any industry.
+You can do most of this yourself with the free guides. If you'd rather move faster, or you don't have the time or in-house skills, we build the plan with you and hand it off so your own team, or a local or lower-cost team, can run it. Every report cites its sources, states its assumptions, and ends with specific next steps.
